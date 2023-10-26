@@ -28,11 +28,11 @@ Welcome to the React Web Login and Registration Project! This project offers a u
 
 
 ## Install Dependencies: Install the project dependencies:
-   ```bash
+   
 npm install
 
 ## Run the Project: Start the project
-   ```bash
+   
 npm start
 
 Access the Web Application: Open your web browser and access the web application at http://localhost:3000.
