@@ -1,7 +1,9 @@
 # Getting Started with Create React App
+<div align="center">
+  <img src="https://github.com/ramincsy/Login_Signup-React-js/blob/main/1.JPG" width="400" height="200"/>
+  <img src="https://github.com/ramincsy/Login_Signup-React-js/blob/main/2.JPG" width="400" height="200" />
+</div>
 
-![App Screenshot](https://github.com/ramincsy/Login_Signup-React-js/blob/main/1.JPG)
-![App Screenshot](https://github.com/ramincsy/Login_Signup-React-js/blob/main/2.JPG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
