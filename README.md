@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 <div align="center">
-  <img src="https://github.com/ramincsy/Login_Signup-React-js/blob/main/1.JPG" width="400" height="200"/>
-  <img src="https://github.com/ramincsy/Login_Signup-React-js/blob/main/2.JPG" width="400" height="200" />
+  <img src="https://github.com/ramincsy/Login_Signup-React-js/blob/main/1.JPG" width="400" height="300"/>
+  <img src="https://github.com/ramincsy/Login_Signup-React-js/blob/main/2.JPG" width="400" height="300" />
 </div>
 
 
